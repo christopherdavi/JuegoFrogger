@@ -1,0 +1,11 @@
+/* Centrar el contenedor */
+#container {
+    padding-top:50px;
+    margin:0 auto;
+    width:480px;
+  }
+  /* Dale un fondo al lienzo */
+  canvas {
+    background-color:black;
+  }
+  
